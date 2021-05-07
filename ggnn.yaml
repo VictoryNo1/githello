@@ -51,7 +51,7 @@ n_edge_types: 9
 # to be aggregated over more node hops
 n_steps: 5
 #300 299 100
-n_node: 1000
+n_node: 100
 
 # -----------------------------
 copy_attn_type: general
